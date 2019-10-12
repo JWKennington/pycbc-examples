@@ -14,7 +14,7 @@ appropriate developer comments, and a Jupyter notebook with interactive visuals.
 
 ### List of Included Examples
 
-1. Loading Data [[doc](pycbc_examples/docs/LoadingData.md)] [[code](pycbc_examples/examples/loading_data.py)] [[interactive](pycbc_examples/notebooks/loading-data.ipynb) | [binder](https://mybinder.org/v2/gh/JWKennington/pycbc-examples/master?filepath=pycbc_examples%2Fnotebooks%2Floading-data.ipynb)]
+1. Loading Data [[doc](pycbc_examples/docs/LoadingData.md)] [[code](pycbc_examples/examples/loading_data.py)] [[interactive](pycbc_examples/notebooks/loading-data.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JWKennington/pycbc-examples/master?filepath=pycbc_examples%2Fnotebooks%2Floading-data.ipynb)]
 
 
 ## References
