@@ -14,7 +14,7 @@ appropriate developer comments, and a Jupyter notebook with interactive visuals.
 
 ### List of Included Examples
 
-1. Loading Data [[doc](../readme/docs/LoadingData.md)] [[code](../blob/master/examples/loading_data.py)] [[interactive]()]
+1. Loading Data [[doc](docs/LoadingData.md)] [[code](../blob/master/examples/loading_data.py)] [[interactive]()]
 
 
 ## References
