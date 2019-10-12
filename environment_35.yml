@@ -2,7 +2,6 @@ name: pycbc-examples-env
 
 channels:
   - conda-forge
-  - defaults
 
 dependencies:
   - python=3.5
