@@ -14,7 +14,7 @@ appropriate developer comments, and a Jupyter notebook with interactive visuals.
 
 ### List of Included Examples
 
-1. Loading Data [[high]()] [[low]()] [[interactive]()]
+1. Loading Data [[doc](/docs/LoadingData.md)] [[code](/examples/loading_data.py)] [[interactive]()]
 
 
 ## References
