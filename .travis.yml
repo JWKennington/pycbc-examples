@@ -23,6 +23,7 @@ install:
   - conda info -a
 
   # Construct the environment
+  - echo "$TRAVIS_PYTHON_VERSION"
   - if [[ "$TRAVIS_PYTHON_VERSION" == "2.7" ]]; then
       conda env create -f environment_27.yml
     elif [[ "$TRAVIS_PYTHON_VERSION" == "3.5" ]]; then
