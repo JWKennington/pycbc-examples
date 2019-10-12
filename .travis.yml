@@ -1,8 +1,14 @@
 language: python
+
 python:
   # We don't actually use the Travis Python, but this keeps it organized.
   - "3.6"
   - "3.7"
+
+branches:
+  only:
+  - master
+
 install:
   - sudo apt-get update
   # We do this conditionally because it saves us some downloading if the
@@ -28,5 +34,6 @@ install:
   - python setup.py install
 
 script: pytest # run tests
+
 after_success:
   - codecov # submit coverage
