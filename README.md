@@ -3,7 +3,7 @@ The PyCBC library provides excellent tools for loading and analyzing gravitation
 some examples (though the are not installed with the package). This repo aims to provide an installable
 set of thorough examples, primarily useful for pedagogical purpsoes. 
 
-Build Status: [![CircleCI](https://circleci.com/gh/JWKennington/pycbc-examples/tree/master.svg?style=svg)](https://circleci.com/gh/JWKennington/pycbc-examples/tree/master)
+[![Build Status](https://travis-ci.com/JWKennington/pycbc-examples.svg?branch=master)](https://travis-ci.com/JWKennington/pycbc-examples)
 
 ## Examples
 
