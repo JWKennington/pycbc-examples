@@ -10,3 +10,4 @@ dependencies:
   - codecov
   - pycbc
   - jupyter
+  - jupyter_contrib_nbextensions
