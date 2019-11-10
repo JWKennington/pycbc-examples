@@ -11,3 +11,5 @@ dependencies:
   - pycbc
   - jupyter
   - jupyter_contrib_nbextensions
+  - pip:
+        - gravtools >= 0.1.2
