@@ -7,14 +7,8 @@ set of thorough examples, primarily useful for pedagogical purpsoes.
 
 ## Examples
 
-### Structure
-Each example includes high-level, low-level, and interactive components. Specifically, these components are a 
-Markdown file with narrative explanation of how the api functions, a Python file showing sample code usage with 
-appropriate developer comments, and a Jupyter notebook with interactive visuals.
 
-### List of Included Examples
-
-1. Loading Data [[doc](pycbc_examples/docs/LoadingData.md)] [[code](pycbc_examples/examples/loading_data.py)] [[interactive](pycbc_examples/notebooks/loading-data.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JWKennington/pycbc-examples/master?filepath=pycbc_examples%2Fnotebooks%2Floading-data.ipynb)]
+1. Loading Data [[interactive](pycbc_examples/examples/LoadingData.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JWKennington/pycbc-examples/master?filepath=pycbc_examples%2Fexamples%2FLoadingData.ipynb)]
 
 
 ## References
