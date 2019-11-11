@@ -7,8 +7,7 @@ set of thorough examples, primarily useful for pedagogical purpsoes.
 
 ## Examples
 
-
-1. Loading Data [[interactive](pycbc_examples/examples/LoadingData.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JWKennington/pycbc-examples/master?filepath=pycbc_examples%2Fexamples%2FLoadingData.ipynb)]
+1. Loading Data [[notebook](pycbc_examples/examples/LoadingData.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JWKennington/pycbc-examples/master?filepath=pycbc_examples%2Fexamples%2FLoadingData.ipynb)]
 
 
 ## References

@@ -5,6 +5,7 @@ channels:
   - defaults
 
 dependencies:
+  - bokeh
   - python=3.7
   - pytest
   - codecov
@@ -12,4 +13,4 @@ dependencies:
   - jupyter
   - jupyter_contrib_nbextensions
   - pip:
-      - gravtools >= 0.1.2
+      - gravtools >= 0.1.3
